@@ -155,8 +155,8 @@ No known bugs at this time.
 
 ## Authors
 Adegbuyi Adefolaju - [Github](https://github.com/iamfolaju) / [Facebook](https://facebook.com/iamadefolaju)  
-Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
+WOnderful Emmanuel  - [Github](https://github.com/beardbreadman) / [Twitter](https://twitter.com/Bossman61830266)
 
-Second part of Airbnb: Joann Vuong
+Second part of Airbnb: 
 ## License
 Public Domain. No copy write protection. 
